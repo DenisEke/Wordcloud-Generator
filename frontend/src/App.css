@@ -1,0 +1,142 @@
+/* Color Theme Swatches in Hex */
+.Kopie-von-Modern-Creativity-1-hex {
+    color: #73071F;
+}
+
+.Kopie-von-Modern-Creativity-2-hex {
+    color: #151624;
+}
+
+.Kopie-von-Modern-Creativity-3-hex {
+    color: #3F4D59;
+}
+
+.Kopie-von-Modern-Creativity-4-hex {
+    color: #77858D;
+}
+
+.Kopie-von-Modern-Creativity-5-hex {
+    color: #F1F2F4;
+}
+
+.root {
+    display: flex;
+}
+
+.App {
+    text-align: center;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.Toolbar {
+    padding: 1%;
+}
+
+.PreviewNote {
+    padding: 2%
+}
+
+.ProgressWrapper {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.preview-paper {
+    padding: 2%;
+    height: 83vh;
+    width: 'auto';
+}
+
+img {
+    height: 100%;
+    width: 'auto';
+}
+
+.maskPreview {
+    width: 100%;
+    height: 'auto';
+}
+
+.maskPreview:hover {
+    width: 101%;
+    height: 'auto';
+}
+
+.maskSelected {
+    width: 100%;
+    height: 'auto';
+    border: solid #73071F;
+    border-width: 3px;
+}
+
+.user-mask-preview {
+    width: 100%;
+    height: 'auto';
+}
+
+.Content {
+    flexGrow: 1;
+    padding: 3vh 3vw;
+    width: 100%;
+    min-height: 95%;
+}
+
+.test {
+    width: 100%;
+}
+
+.padding {
+    padding: 2%;
+    padding-bottom: 3%;
+}
+
+.wordcloud-paper {
+    width: 100%;
+    height: auto;
+}
+
+.wordcloud-paper-img {
+    width: 95%;
+    height: auto;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.plan {
+    margin-top: 3vh;
+    padding: 4%;
+    background-color: #F1F2F4;
+    border: 1px solid #3F4D59;
+    border-radius: 10px;
+}
+
+.plan:hover {
+}
+
+.plan-best {
+    margin-top: 3vh;
+    padding: 4%;
+    background-color: #F1F2F4;
+    border: 3px solid #73071F;
+    border-radius: 10px;
+    transform: scale(1.1);
+}
+
+.plan-best:hover {
+}
+
+.bestsellerIcon {
+    height: 2rem;
+    width: auto;
+    transform: scale(2.4) rotate(18deg);;
+}
+
+.faqpaper {
+    padding: 2%;
+}
+
+
+

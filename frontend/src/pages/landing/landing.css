@@ -1,0 +1,38 @@
+.LandingRoot {
+    text-align: center;
+    width: 76%;
+    margin: auto;
+}
+
+.HeroImageWrapper {
+    width: 66%;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.HeroImage {
+    width: 95%;
+    height: auto;
+}
+
+.featurePaper {
+    text-align: left;
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+}
+
+
+.featureImage {
+    width: 100%;
+    height: auto;
+}
+
+.lastCTA {
+    padding-top: 15vh;
+    padding-bottom: 25vh;
+}
+
+.sectionPadding {
+    padding-top: 15vh;
+    padding-bottom: 25vh;
+}
